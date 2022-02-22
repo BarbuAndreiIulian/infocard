@@ -1,0 +1,32 @@
+.content-flex {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.content-width {
+  max-width: 20rem;
+  padding-left: 2.7rem;
+  background-color: #1a1b21;
+}
+
+.p-element1 {
+  padding-right: 2rem;
+  color: #dcdcdc;
+  background-color: #1a1b21;
+  padding-bottom: 1.5rem;
+
+  font-weight: normal;
+  font-size: 10.24px;
+  line-height: 150%;
+  padding-bottom: 2.5rem;
+}
+
+.content-width h2 {
+  color: #f5f5f5;
+  background-color: #1a1b21;
+
+  font-weight: bold;
+
+  line-height: 150%;
+}
